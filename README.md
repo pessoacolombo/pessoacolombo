@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pessoacolombo
-- 🌱 I’m currently learning to code in Python, to do advanced spatial analysis
+- 🌱 I’m using Python libraries to conduct advanced (and reproduciible) spatial analysis
 - 👀 I’m looking to collaborate on questions related to urban planning in global South, "informal" urbanization and urban health.
