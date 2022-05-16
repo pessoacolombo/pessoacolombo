@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pessoacolombo
+- 👀 I’m an architect with a particular interest in the interaction between spatial planning and social development
+- 🌱 I’m currently learning to code in Python
+- 💞️ I’m looking to collaborate on questions related to urban planning in global South, "informal" urbanization and urban health.
