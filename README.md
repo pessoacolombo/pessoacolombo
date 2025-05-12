@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pessoacolombo
 - 🌱 I’m using Python libraries to conduct advanced (and reproducible) spatial analysis
-- 👀 I’m looking to collaborate on questions related to urban planning in global South, "informal" urbanization and urban health.
+- 👀 I’m looking to collaborate on urban planning and public health challenges related to climate & demographic challenges.
